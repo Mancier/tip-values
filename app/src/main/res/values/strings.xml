@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">tip-calculator</string>
+    <string name="app_name">Calculador de Taxas</string>
+    <string name="percentual">15%</string>
+    <string name="tip">Gorjeta</string>
+    <string name="total">Total</string>
+    <string name="insertTextValue">Entre com o valor</string>
 </resources>
